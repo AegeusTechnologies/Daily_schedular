@@ -1,0 +1,28 @@
+{
+  "name": "daily_schedular",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AegeusTechnologies/Daily_schedular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AegeusTechnologies/Daily_schedular/issues"
+  },
+  "homepage": "https://github.com/AegeusTechnologies/Daily_schedular#readme",
+  "description": "",
+  "dependencies": {
+    "bullmq": "^5.58.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "redis": "^5.8.2"
+  },
+  "devDependencies": {
+    "prisma": "^6.16.1"
+  }
+}
